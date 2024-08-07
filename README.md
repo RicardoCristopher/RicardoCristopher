@@ -18,5 +18,5 @@ And please be welcome to my humble place
 
 <!-- Web Development Badge -->
 <a href="https://www.coderhouse.com/ve/certificados/66771d0fa15029537a83bef4?lang=en" target="_blank" title="CoderHouser's Web Development Certification">
-  <img src="https://cdn-icons-png.flaticon.com/512/5828/5828244.png" style="height: 100px; width: 100px;" alt="GitHub Foundations Badge">
+  <img src="https://res.cloudinary.com/hdsqazxtw/image/upload/v1641582494/bzqqfny2euelresdsew7.png" style="height: 100px; width: 100px;" alt="GitHub Foundations Badge">
 </a>
