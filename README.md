@@ -11,5 +11,4 @@ And please be welcome to my humble place
 - ⚡ Fun fact: everything I know about programming, I have learned it in a self-taught way, so never it's too late to start learn new stuffs
 
 ## Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f9bd06f-a592-4fdd-84f6-0d6a94d617f2" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![GitHub Foundations](https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
