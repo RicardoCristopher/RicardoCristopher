@@ -12,6 +12,6 @@ And please be welcome to my humble place
 
 ## Badges
 <!-- GitHub Foundations Badge -->
-<a href="https://www.credly.com/badges/3f9bd06f-a592-4fdd-84f6-0d6a94d617f2/public_url">
+<a href="https://www.credly.com/badges/3f9bd06f-a592-4fdd-84f6-0d6a94d617f2/public_url" target="_blank">
   <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" style="height: 100px; width: 100px;" alt="GitHub Foundations Badge">
 </a>
