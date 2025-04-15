@@ -4,7 +4,7 @@ And please be welcome to my humble place
 ## About me
 - 👋 Hi, I’m @RicardoCristopher
 - 👀 I’m interested in learning about everything
-- 💞️ My goald is create and provide small but useful libraries and tools
+- 💞️ My goal is create and provide small but useful libraries and tools
 - 📫 How to reach me:
   - [Portfolio](ricardocristopher.github.io/)
   - [LinkedIn](https://www.linkedin.com/in/ricardocristopher/)
